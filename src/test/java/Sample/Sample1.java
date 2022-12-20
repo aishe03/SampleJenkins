@@ -8,5 +8,6 @@ public class Sample1 {
 	public  void main()
 	{
 		System.out.println("hello world");
+		System.out.println("sunny day");
 	}
 }
