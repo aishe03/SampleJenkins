@@ -9,5 +9,6 @@ public class Sample1 {
 	{
 		System.out.println("hello world");
 		System.out.println("sunny day");
+		System.out.println("tuesday");
 	}
 }
